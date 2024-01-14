@@ -56,6 +56,7 @@ public class ja11_4195_친구네트워크_G2_unionfind {
             return a;
         }else return set[a] = find(set[a]);
     }
+    //지금까지와 다른 유니온 함수
     public static int union(int a, int b){
         a = find(a);
         b = find(b);
