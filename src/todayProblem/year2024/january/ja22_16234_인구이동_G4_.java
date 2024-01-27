@@ -5,6 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
+//bfs dfs 로 푸는 문제를 그냥 그래프로 푼듯
 public class ja22_16234_인구이동_G4_ {
     static int N, L, R, lastUnion;
     //static int[] sum;
