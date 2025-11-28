@@ -1,4 +1,4 @@
-package todayProblem.year2025.march;
+package todayProblem.year2025;
 
 import java.io.BufferedReader;
 import java.io.IOException;
